@@ -1,0 +1,37 @@
+*{
+margin: 0px;
+padding: 0px;
+background-color: blanchedalmond;
+
+
+
+}
+
+.reg{
+    width: 500px;
+    background-color: black;
+    color:black;
+border: 2px;
+
+border-style: solid ;
+border-color:black;
+margin: 50px auto;
+display: block;
+text-align: center;
+
+
+}
+button{
+
+    background-color: aquamarine;
+    font-size: larger;
+    color: aliceblue;
+}
+
+
+
+
+h1{
+color: orange;
+
+}
